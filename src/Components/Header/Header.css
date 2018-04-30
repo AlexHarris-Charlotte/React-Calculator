@@ -1,0 +1,14 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(5 1fr);
+    grid-template-rows: repeat(1 1fr);
+}
+/* 
+.wrapper {
+    width: 50%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: none;
+    grid-template-rows: repeat(6, 1fr);
+  } */
